@@ -1,5 +1,3 @@
-Sure, here's a cool GitHub repository README for your Animal Detector project:
-
 ```markdown
 # 🐾 Animal Detector 🐾
 
